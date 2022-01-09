@@ -22,7 +22,7 @@ To install this project, make sure to have the inquirer package installed using 
 
 ## Usage
 
-In order to use this project having met the prerequisite of installing inquirer, run the project in the terminal using node and simply follow the prompts and then at the end your readme will be made
+In order to use this project having met the prerequisite of installing inquirer, run the project in the terminal using node and simply follow the prompts and then at the end your readme will be made.
 
 ## Screenshot
 
