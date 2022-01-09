@@ -26,6 +26,8 @@ In order to use this project having met the prerequisite of installing inquirer,
 
 ## Screenshot
 
+In addition to the screenshot. Here is a link to the video walkthrough of how to use the application - https://www.youtube.com/watch?v=jlqegJoddGk
+
 ![Screenshot](https://i.gyazo.com/38dbd2728b672d75b0440880f8d41d8b.png)
 
 ## License
