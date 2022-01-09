@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a node app which can build a quality readme generator
+This is a node app which can build a quality readme generator. The app runs in the command line. Once the user runs the app, they will be prompted with a series of questions which will take in the answers. After that return a response in the form of a formatted readme file.
 
 ## Table of Contents
 
@@ -44,4 +44,4 @@ not required for this application
 
 ## Questions
 
-If you have any questions about this project, you can contact me at . More projects available here https://github.com/Alistairhoughton.
+If you have any questions about this project, you can contact me at my github . More projects available here https://github.com/Alistairhoughton.
