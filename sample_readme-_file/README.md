@@ -11,7 +11,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Screenshot](not required)]
+  * [Screenshot](not required)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
